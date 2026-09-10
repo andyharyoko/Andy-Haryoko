@@ -1,0 +1,6 @@
+{
+  "name": "Harapanku - Klinik Tumbuh Kembang Anak",
+  "description": "Layanan terpadu Terapi ABA, Wicara, dan Okupasi dengan pemantauan data transparan terintegrasi langsung untuk anak di Balikpapan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
